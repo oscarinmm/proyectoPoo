@@ -5,7 +5,7 @@ namespace DataCore
 {
     public class data
     {
-        private string cnn = "Data Source=OSCAR-SICE-ENTE;Initial Catalog=proyectoPoo;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False";
+        private string cnn = "Data Source=sql5103.site4now.net;Initial Catalog=db_a90448_moreno;User ID=db_a90448_moreno_admin;Password=ipvg2022";
         public DataTable queryData(string query)
         {
             DataTable dt = new DataTable();
