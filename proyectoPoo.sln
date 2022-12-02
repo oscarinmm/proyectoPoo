@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32112.339
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "apiPOO", "apiPOO\apiPOO.csproj", "{E87064EA-9435-40BD-8945-935E6C76C386}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Segunda Compañía Zapadores CBLA", "apiPOO\Segunda Compañía Zapadores CBLA.csproj", "{E87064EA-9435-40BD-8945-935E6C76C386}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataCore", "DataCore\DataCore.csproj", "{F1E2FEEA-0D35-4FCE-97A1-0754C1387F29}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataCore", "DataCore\DataCore.csproj", "{F1E2FEEA-0D35-4FCE-97A1-0754C1387F29}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModelosCore", "ModelosCore\ModelosCore.csproj", "{4E7D7E53-50EF-4326-A686-9B1A6E12D089}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ModelosCore", "ModelosCore\ModelosCore.csproj", "{4E7D7E53-50EF-4326-A686-9B1A6E12D089}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NegocioCore", "NegocioCore\NegocioCore.csproj", "{72E2D782-3C7F-4139-9890-7C677FED7A72}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NegocioCore", "NegocioCore\NegocioCore.csproj", "{72E2D782-3C7F-4139-9890-7C677FED7A72}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
